@@ -10,12 +10,6 @@ function wrapping(gifts){
     })
 }
 
-
-
-
-
 const wrapped = wrapping(gifts)
-
-
 
 console.log(wrapped)
